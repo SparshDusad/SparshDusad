@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my skills and generative AI ecosphere**
 
-- 🌱 I’m currently learning **genAI, agenticAI, integrating AI in daily needs**
+- 🌱 I’m currently learning **GenAI, AgenticAI, integrating AI in daily needs**
 
 - 👯 I’m looking to collaborate on **Software development and AI ecopshere**
 
