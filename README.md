@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sparsh Dusad</h1>
 <h3 align="center">A passionate Software developer and Learner.</h3>
 
-- 🔭 I’m currently working on **Improving my skills and blockchain ecosphere**
+- 🔭 I’m currently working on **Improving my skills and generative AI ecosphere**
 
-- 🌱 I’m currently learning **Blockchain, web3, solidity,**
+- 🌱 I’m currently learning **genAI, agenticAI, integrating AI in daily needs**
 
-- 👯 I’m looking to collaborate on **Software development and Blockchain ecopshere**
+- 👯 I’m looking to collaborate on **Software development and AI ecopshere**
 
 - 🤝 I’m looking for help with **Something challenging and new.**
 
